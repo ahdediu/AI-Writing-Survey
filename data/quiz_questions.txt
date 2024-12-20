@@ -1,0 +1,33 @@
+// question: 254482  name: Descouraging
+::Descouraging::What measures do you think would be effective in discouraging the unethical use of AI in academic paper writing?
+
+// question: 254481  name: Honesty more appreciated
+::Honesty more appreciated::What measures do you think would be positively appreciated to encourage honesty and integrity in the use of AI for academic paper writing?
+
+// question: 254480  name: Writing Prompt Querstion
+::Writing Prompt Querstion::If you were asking an AI chat for collaboration while writing an Academic Paper on "Using AI Ethics for Writing Academic Papers", what would be the AI used? What would be the prompt for asking the bot? Give a brief sample of the answer. If not, state your ideas about a paper with such a title.
+
+// question: 254459  name: Prepare AI chat
+::Prepare AI chat::To what extent do you use AI chat to prepare for Academic Writing? 0 not at all, 100 Always.
+
+// question: 254457  name: Prepare Collaboration
+::Prepare Collaboration::To what extent do you use discussions with colleagues to prepare for Academic Writing? 0 not at all, 100 Always.
+
+// question: 254391  name: Prepare Pencil
+::Prepare Pencil::To what extent do you use paper and pencil to prepare for Academic Writing? 0 not at all, 100 Always.
+
+// question: 254458  name: Prepare Search Net
+::Prepare Search Net::To what extent do you use Interner search for similar works to prepare for Academic Writing? 0 not at all, 100 Always.
+
+// question: 254461  name: Writing: AI chat for choosing a research Topic
+::Writing\: AI chat for choosing a research Topic::To what extent would you use AI chat to choose a research topic for a paper to submit to a conference? 0, not at all, 100, totally based on the chat.
+
+
+// question: 254475  name: Writing: AI chat for design and implement programs
+::Writing\: AI chat for design and implement programs::To what extent would you employ AI tools for designing and writing code/programs in your academic paper without compromising ethical standards, authorship, or the ownership of your research results?0, not at all, 100 free to use AI without problems.
+
+
+// question: 254476  name: Writing: AI chat for writing
+::Writing\: AI chat for writing::To what extent would you employ AI tools for writing your academic paper without compromising ethical standards, authorship, or the ownership of your research results?0, not at all, 100 free to use AI without problems.
+
+
