@@ -1,2 +1,9 @@
 # AI-Writing-Survey
-This repository contains the survey results about using AI in academic writing. The survey includes responses from 24 students, each answering 10 questions regarding various stages and tools used for academic project reports. Additionally, the survey captures participants' opinions on the ethics of using AI in academic writing.
+
+This repository contains anonymised survey data about how students use AI in academic writing.
+
+- The survey has been repeated across multiple cohorts.
+- Each response is tagged with an `initial_year` field (e.g. 2023, 2024, 2025), so all cohorts are stored in a **single JSON file**.
+- Data files live in `data/`, visualisations in `graphs/`.
+
+The data are intended as a companion dataset for research on students' attitudes toward AI-assisted writing and academic integrity.
